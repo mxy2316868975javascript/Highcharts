@@ -10,7 +10,7 @@ Highcharts：CDN：<script src="http://cdn.hcharts.cn/highcharts/highcharts.js">
 Highcharts:功能强大、开源、美观、图表丰富、兼容绝大多数浏览器的纯js图表库
     Highcharts是一款纯javascript编写的图表库，能够很简单便捷的在Web网站或Web应用中添加交互性的图表，Highcharts目前支持直线图、曲线图、面积图、柱状图、饼图、散点图等多达18种不同类型的图表，可以满足你对Web图表的任何需求 ！
 
-Highcharts简介
+##Highcharts简介
 
 图1-1 Highcharts Basic Chart
 
